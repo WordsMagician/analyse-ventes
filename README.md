@@ -35,6 +35,7 @@ Transformer un fichier de données brutes en informations exploitables pour pilo
 
 ![Graphique](output/Analyseur_de_vente_02.png)
 
+![Résumé](output/Analyseur_de_vente_03.png)
 ---
 
 ## 📂 Format du fichier d’entrée
@@ -45,5 +46,3 @@ Le fichier CSV doit contenir au minimum :
 produit,ventes,prix,mois
 Livre A,120,4.99,Janvier
 Livre B,80,3.99,Février
-
-![Résumé](output/Analyseur_de_vente_03.png)
