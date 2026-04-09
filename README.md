@@ -17,6 +17,8 @@ Transformer un fichier de données brutes en informations exploitables pour pilo
 - Analyser les tendances
 - Détecter les variations importantes
 
+![Résultats](output/Analyseur de vente 01.png)
+
 ---
 
 ## ⚙️ Fonctionnalités
@@ -29,7 +31,9 @@ Transformer un fichier de données brutes en informations exploitables pour pilo
 - ⚠️ Détection de baisse ou croissance des ventes  
 - 📝 Génération automatique d’un rapport texte  
 - 📊 Visualisation :
-  - Graphique du CA par mois  
+- Graphique du CA par mois
+
+![Graphique](output/Analyseur de vente 02.png)
 
 ---
 
@@ -41,3 +45,5 @@ Le fichier CSV doit contenir au minimum :
 produit,ventes,prix,mois
 Livre A,120,4.99,Janvier
 Livre B,80,3.99,Février
+
+![Résumé](output/Analyseur de vente 03.png)
